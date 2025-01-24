@@ -3,7 +3,7 @@
   
   <br/>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&repeat=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Azure+Cloud+Engineer;Sattelite+Engineer+Veteran;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&repeat=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Cloud+Engineer;Sattelite+Engineer+Veteran;" 
     alt="Typing SVG" 
   />
   <br/>
@@ -63,7 +63,8 @@
 
 ## Virtual / Mixed Reality 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white" height="50"</p>
+  <img src="https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white" height="50" />
+    <img src=https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white" height="50"/></p>
 
 ---
 
