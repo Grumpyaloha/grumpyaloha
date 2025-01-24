@@ -86,7 +86,7 @@
 ---
 
 ## 🎓 Professional Development
-*(Add your education details or any certifications here.)*
+
 
 ---
 
