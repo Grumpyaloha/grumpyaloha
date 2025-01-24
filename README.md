@@ -61,6 +61,10 @@
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="50" />
 </p>
 
+## Virtual / Mixed Reality 
+<p align="center">
+  <img src="https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white" height="50"</p>
+
 ---
 
 ## 📊 Featured Projects
