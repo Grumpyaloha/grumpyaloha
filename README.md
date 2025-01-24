@@ -64,7 +64,8 @@
 ## Virtual / Mixed Reality 
 <p align="center">
   <img src="https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white" height="50" />
-    <img src="https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white" height="50"/></p>
+    <img src="https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white" height="50"/><img src="[https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)" height="50"/></p>
+</p>
 
 ---
 
