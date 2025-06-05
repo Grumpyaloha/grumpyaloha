@@ -19,11 +19,11 @@
 ## 🚀 About Me
 > Data Scientist with a unique blend of Machine Learning, Azure Cloud Technologies, and Sattelite Engineering expertise. Currently driving data-driven solutions at Zenfold Labs.
 
-- 🔭 I'm currently working as a **Data Scientist at Zenfold Labs**  
-- 🌱 I'm currently learning **Ocean Engineering** at UH Manoa  
+- 🔭 I'm currently working as a **Data Scientist at Synapse Agriculture** and **Founder at Smart Spout Farms**
+- 🌱 I'm currently learning Sustainable Agriculture at WCC and Engineering at UH Manoa 
 - 💼 Previously managed **Classified**  
 - 📝 I regularly write articles on [Medium](https://medium.com/@grumpyaloha)  
-- 💡 I'm passionate about oceanography and computer science  
+- 💡 I'm passionate about agriculture and computer science  
 
 ---
 
